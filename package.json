@@ -1,0 +1,8 @@
+{
+  "name": "prevent",
+  "repo": "slifszyc/prevent",
+  "description": "Cross-browser preventDefault",
+  "version": "0.0.2",
+  "keywords": ["prevent", "preventDefault"],
+  "license": "MIT"
+}
